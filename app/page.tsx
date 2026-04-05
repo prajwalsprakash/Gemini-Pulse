@@ -36,7 +36,7 @@ export default function GeminiHub() {
           <div style={{display: 'flex', alignItems: 'center', gap: '10px', fontWeight: 'bold'}}>
             <Sparkles color="var(--accent)" /> Google AI News Hub
           </div>
-          <a href="https://github.com/prajwalsprakash" target="_blank" style={{color: 'inherit'}}><Github /></a>
+          <a href="https://github.com/prajwalsprakash/Gemini-Pulse" target="_blank" style={{color: 'inherit'}}><Github /></a>
         </div>
       </nav>
 
